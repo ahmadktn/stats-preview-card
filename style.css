@@ -68,7 +68,7 @@ h2{
 	font-family: 'Inter';
 }
 .img{
-	background: url(./images/image-header-desktop.jpg);
+	background: url(./image-header-desktop.jpg);
 	background-repeat: no-repeat;
 	background-size: 100;
 	overflow: hidden;
@@ -151,7 +151,7 @@ h2{
 }
 .img{
 	height: 40vh;
-	background: url(./images/image-header-mobile.jpg);
+	background: url(./image-header-mobile.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	overflow: hidden;
