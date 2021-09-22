@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://stats-preview-card.vercel.app)
+- Live Site URL: [https://ahmadktn.github.io/stats-preview-card/](https://ahmadktn.github.io/stats-preview-card/)
 
 ## My process
 
